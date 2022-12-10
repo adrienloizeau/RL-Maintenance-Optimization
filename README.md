@@ -1,1 +1,3 @@
-# opto-maintenance-optimization
+# Stochastic Machine Replacement Problem
+
+
